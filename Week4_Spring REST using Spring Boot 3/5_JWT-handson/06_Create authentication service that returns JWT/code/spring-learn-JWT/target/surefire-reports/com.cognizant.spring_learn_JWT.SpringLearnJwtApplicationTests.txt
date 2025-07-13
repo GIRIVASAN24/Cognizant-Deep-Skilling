@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.cognizant.spring_learn_JWT.SpringLearnJwtApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.736 s -- in com.cognizant.spring_learn_JWT.SpringLearnJwtApplicationTests
